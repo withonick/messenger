@@ -1,4 +1,3 @@
-from django.http import HttpResponse, HttpResponseNotFound, HttpResponseForbidden, HttpResponseBadRequest
 from django.shortcuts import render
 
 def index(request):
